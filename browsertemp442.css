@@ -1,0 +1,5 @@
+/*browser temp pg.442*/
+
+header, section, footer, aside, nav, article, figure, figcaption{
+  display: block;
+}

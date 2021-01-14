@@ -1,0 +1,7 @@
+/*backgroundrepeatingimages*/
+
+body {
+  background-image: url("https://hosting.photobucket.com/images/i/dotpwn/logo_idea_01.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

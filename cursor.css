@@ -1,0 +1,16 @@
+a{
+  cursor: move;}
+  a{
+    cursor: auto;}
+    a{
+      cursor: default;}
+      a{
+        cursor: pointer;}
+        a{
+          cursor: text;}
+          a{
+            cursor: wait;}
+            a{
+              cursor: help;}
+              a{
+                cursor: url(cursor.gif);}

@@ -1,0 +1,37 @@
+div{
+  height: 300px;
+  width: 400px;
+
+}
+p{
+  height: 75%;
+  width: 75%;
+
+}
+td.description {
+  min-width: 450px;
+  max-width: 650px;
+  text-align : left;
+  padding: 5px;
+  margin: 0px;
+}
+  h2 p{
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+  }
+  h2{
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+  }
+  p{
+    min-height: 10px;
+    max-height: 50px;
+  }
+  p.one{
+    overflow: hidden;
+
+  }
+  p.two{
+    overflow: scroll;
+  }
